@@ -1,16 +1,16 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-venue: "Introduction to working with geospatial data in R"        # brief name of host site without address 
+venue: "Amsterdam Science Park Study Group summer school"        # brief name of host site without address 
 address: "Course will be held online"      # full street address of workshop 
 country: "nl"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude: "52"     # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "4"    # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "TBD March 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "21 June - 2 July 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: ""    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2021-03-XX      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2021-03-XX        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Stacy Shinneman", "Johannes De Groeve"] # boxed
+startdate: 2021-06-21      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2021-0702X        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Various"] # boxed
 helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["s.shinneman@uva.nl"]    # boxed, comma-separated list of contact email addresses for the host
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
@@ -70,11 +70,6 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
 {% if page.eventbrite %}
 <iframe
-  src="https://www.eventbrite.com/tickets-external?eid={{page.eventbrite}}&ref=etckt"
-  frameborder="0"
-  width="100%"
-  height="280px"
-  scrolling="auto">
 </iframe>
 {% endif %}
 
