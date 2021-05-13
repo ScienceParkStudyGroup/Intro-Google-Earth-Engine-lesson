@@ -197,13 +197,15 @@ We will use this <a href="{{page.collaborative_notes}}">collaborative document</
 
 
 {% comment %} 
-SURVEYS - DO NOT EDIT SURVEY LINKS 
+SURVEYS - DO NOT EDIT SURVEY LINKS
+This part should not appear for this lesson because it is not Carpentries.
 {% endcomment %}
+{% comment %} 
 <h2 id="surveys">Surveys</h2>
 <p>Please be sure to complete these surveys before and after the workshop.</p>
 <p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
 <p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
-
+{% endcomment %}
 <hr/>
 
 
