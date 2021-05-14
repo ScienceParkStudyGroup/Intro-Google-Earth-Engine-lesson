@@ -196,37 +196,48 @@ We will use this <a href="{{page.collaborative_notes}}">collaborative document</
 {% endif %}
 
 
-{% comment %} 
-SURVEYS - DO NOT EDIT SURVEY LINKS
-This part should not appear for this lesson because it is not Carpentries.
-{% endcomment %}
-{% comment %} 
-<h2 id="surveys">Surveys</h2>
-<p>Please be sure to complete these surveys before and after the workshop.</p>
-<p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
-<p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
-{% endcomment %}
-<hr/>
 
-
-{% comment %}
-SCHEDULE
-
-Show the workshop's schedule.  Edit the items and times in the table
-to match your plans.  You may also want to change 'Day 1' and 'Day
-2' to be actual dates or days of the week.
-{% endcomment %}
-<h2 id="schedule">Schedule</h2>
-
-{% if site.carpentry == "swc" %}
-{% include swc/schedule.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/schedule.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/schedule.html %}
-{% endif %}
-
-<hr/>
+## SCHEDULE
+<div class="row">
+  <div class="col-md-6">
+    <h3>Day 1: Monday 22 March 2021 </h3>
+    <table class="table table-striped">
+      <tr>
+        <td>Morning<br>(9:30-10:15)</td>
+        <td><a href="https://datacarpentry.org/organization-geospatial/">Introduction to geospatial concepts and the datasets<br>(Stacy)</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Morning<br>(10:15-11:15)</td>
+        <td><a href="https://datacarpentry.org/r-raster-vector-geospatial/01-raster-structure/index.html">Intro to raster data<br>(Stacy)</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Morning<br>(11:30-12:30)</td>
+        <td><a href="https://datacarpentry.org/r-raster-vector-geospatial/02-raster-plot/index.html">Plot raster data<br>(Stacy)</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Break</td>
+	      <td>  </td>
+      </tr>
+      <tr>
+        <td>Afternoon<br>(13:30-14:30)</td>
+        <td><a href="https://datacarpentry.org/r-raster-vector-geospatial/03-raster-reproject-in-r/index.html">Reproject raster data<br>(Johannes)</a>
+        </td>
+      </tr>
+      <tr>
+        <td>Afternoon<br>(14:45-17:00)</td>
+        <td><a href="https://datacarpentry.org/r-raster-vector-geospatial/04-raster-calculations-in-r/index.html">Raster calculations<br>(Johannes)</a>
+        </td>
+      </tr>
+	 <tr>
+        <td>Afternoon<br>(14:45-17:00)</td>
+        <td><a href="https://datacarpentry.org/r-raster-vector-geospatial/05-raster-multi-band-in-r/index.html">Work with multi-band rasters<br>(Johannes)</a>
+        </td>
+      </tr>
+    </table>
+  </div>
 
 {% comment %}
 SYLLABUS
