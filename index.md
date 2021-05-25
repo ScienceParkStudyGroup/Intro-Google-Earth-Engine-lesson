@@ -197,13 +197,12 @@ We will use this <a href="{{page.collaborative_notes}}">collaborative document</
 
 <h2 id="code-of-conduct">Schedule</h2>
 
-| day        	| topic                                            	| instructors  	| helpers 	| Link |
-|------------	|--------------------------------------------------	|--------------	|---------	|------|
-| Monday     	| Introduction to Open Data Science with R - day 1 	| Marc Galland 	| tba     	| -    |
-| Tuesday    	| Introduction to Open Data Science with R - day 2 	| Marc Galland 	| tba     	| -    |
-| Wednesday  	| -                                                	| -            	|-         	| -    |
-| Thursday   	| Introduction to programming in Python - day 1    	| tba          	| tba     	| [Link](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    |
-| Friday     	| Introduction to programming in Python - day 2    	| tba          	| tba     	| [Link](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    |
+| topic                                            	| Link |
+|--------------------------------------------------	|------|
+| GEE Access and JavaScript Tips: Getting an account, JavaScript basics? |[Link](https://geohackweek.github.io/GoogleEarthEngine/00-access-javascript/) |
+| Introduction to Google Earth Engine: Strengths and limitations of this platform |[Link](https://geohackweek.github.io/GoogleEarthEngine/01-introduction/)|
+| Code Editor: Key features of the online code editor, finding help, searching for and importing datasets, creating scripts|[Link](https://geohackweek.github.io/GoogleEarthEngine/02-code-editor/)|
+| Accessing Satellite Imagery: Making image mosaics, using vector data, exporting images |[Link](https://geohackweek.github.io/GoogleEarthEngine/03-load-imagery/)|
 
 {% comment %}
 SCHEDULE
