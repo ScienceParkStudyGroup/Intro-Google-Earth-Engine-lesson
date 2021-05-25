@@ -201,8 +201,8 @@ We will use this <a href="{{page.collaborative_notes}}">collaborative document</
 |--------------------------------------------------	|           |------|
 | GEE Access and JavaScript Tips | How do I get an account? What are some JavaScript basics? |[Link](https://geohackweek.github.io/GoogleEarthEngine/00-access-javascript/) |
 | Introduction to Google Earth Engine | 	What is Google Earth Engine? What are the strengths and limitations of this platform? |[Link](https://geohackweek.github.io/GoogleEarthEngine/01-introduction/)|
-| Code Editor: Key features of the online code editor, finding help, searching for and importing datasets, creating scripts|[Link](https://geohackweek.github.io/GoogleEarthEngine/02-code-editor/)|
-| Accessing Satellite Imagery: Making image mosaics, using vector data, exporting images |[Link](https://geohackweek.github.io/GoogleEarthEngine/03-load-imagery/)|
+| Code Editor| Key features of the online code editor, finding help, searching for and importing datasets, creating scripts|[Link](https://geohackweek.github.io/GoogleEarthEngine/02-code-editor/)|
+| Accessing Satellite Imagery|  Making image mosaics, using vector data, exporting images |[Link](https://geohackweek.github.io/GoogleEarthEngine/03-load-imagery/)|
 
 {% comment %}
 SCHEDULE
