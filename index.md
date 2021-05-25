@@ -197,8 +197,8 @@ We will use this <a href="{{page.collaborative_notes}}">collaborative document</
 
 <h2>Schedule</h2>
 
-| Topic                                            	| Overview  	| 
-|--------------------------------------------------	|-------------|
+| Topic                                                     | Overview  	| 
+|-----------------------------------------------------------|-------------|
 | [GEE Access and JavaScript Tips](https://geohackweek.github.io/GoogleEarthEngine/00-access-javascript/) | How do I get an account? What are some JavaScript basics? |
 | [Introduction to Google Earth Engine](https://geohackweek.github.io/GoogleEarthEngine/01-introduction/) | What is Google Earth Engine? What are the strengths and limitations of this platform?|
 | [Code Editor](https://geohackweek.github.io/GoogleEarthEngine/02-code-editor/) | What are the key features of the online code editor? Where can I go for help while learning GEE? How do I search for and import datasets? How do I create, share and save scripts? |
