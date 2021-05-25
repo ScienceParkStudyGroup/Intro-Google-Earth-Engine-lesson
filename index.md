@@ -207,7 +207,7 @@ We will use this <a href="{{page.collaborative_notes}}">collaborative document</
 
 {% comment %}
 SCHEDULE
-{% endcomment %}
+
 <div class="row">
   <div class="col-md-6">
     <h3>Schedule</h3>
@@ -248,7 +248,7 @@ SCHEDULE
       </tr>
     </table>
   </div>
-
+{% endcomment %}
 {% comment %}
 SYLLABUS
 
