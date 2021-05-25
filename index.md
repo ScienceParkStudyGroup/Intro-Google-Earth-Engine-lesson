@@ -1,17 +1,17 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-venue: "Amsterdam Science Park Study Group summer school"        # brief name of host site without address 
+venue: "Google Earth Engine"        # brief name of host site without address 
 address: "Online course"      # full street address of workshop 
 country: "nl"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude: "52"     # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "4"    # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "21 June - 2 July 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Thursday 1 July 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: ""    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2021-06-21      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2021-07-02        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Various"] # boxed
-helper: ["Various"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+startdate: 2021-07-01      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2021-07-01        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Johannes De Groeve"] # boxed
+helper: ["Stacy Shinneman"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["s.shinneman@uva.nl"]    # boxed, comma-separated list of contact email addresses for the host
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
@@ -195,12 +195,22 @@ We will use this <a href="{{page.collaborative_notes}}">collaborative document</
 <hr/>
 {% endif %}
 
+<h2 id="code-of-conduct">Schedule</h2>
 
+| day        	| topic                                            	| instructors  	| helpers 	| Link |
+|------------	|--------------------------------------------------	|--------------	|---------	|------|
+| Monday     	| Introduction to Open Data Science with R - day 1 	| Marc Galland 	| tba     	| -    |
+| Tuesday    	| Introduction to Open Data Science with R - day 2 	| Marc Galland 	| tba     	| -    |
+| Wednesday  	| -                                                	| -            	|-         	| -    |
+| Thursday   	| Introduction to programming in Python - day 1    	| tba          	| tba     	| [Link](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    |
+| Friday     	| Introduction to programming in Python - day 2    	| tba          	| tba     	| [Link](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    |
 
-## SCHEDULE
+{% comment %}
+SCHEDULE
+{% endcomment %}
 <div class="row">
   <div class="col-md-6">
-    <h3>Day 1: Monday 22 March 2021 </h3>
+    <h3>Schedule</h3>
     <table class="table table-striped">
       <tr>
         <td>Morning<br>(9:30-10:15)</td>
