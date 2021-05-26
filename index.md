@@ -197,9 +197,7 @@ We will use this <a href="{{page.collaborative_notes}}">collaborative document</
 <h2>Credits</h2>
 All geohackweek instructional material is made available under the <a href="https://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution license.
 
-{% comment %}
-SCHEDULE
-
+<h2 id="schedule">Schedule</h2>
 <div class="row">
   <div class="col-md-6">
     <h3>Schedule</h3>
@@ -240,62 +238,17 @@ SCHEDULE
       </tr>
     </table>
   </div>
-{% endcomment %}
-{% comment %}
-SYLLABUS
-
-Show what topics will be covered.
-
-1. If your workshop is R rather than Python, remove the comment
-around that section and put a comment around the Python section.
-2. Some workshops will delete SQL.
-3. Please make sure the list of topics is synchronized with what you
-intend to teach.
-4. You may need to move the div's with class="col-md-6" around inside
-the div's with class="row" to balance the multi-column layout.
-
-This is one of the places where people frequently make mistakes, so
-please preview your site before committing, and make sure to run
-'tools/check' as well.
-{% endcomment %}
-<h2 id="syllabus">Syllabus</h2>
-
-{% if site.carpentry == "swc" %}
-{% include swc/syllabus.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/syllabus.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/syllabus.html %}
-{% endif %}
-
 <hr/>
+  
 
 {% comment %}
 SETUP
-
-Delete irrelevant sections from the setup instructions.  Each
-section is inside a 'div' without any classes to make the beginning
-and end easier to find.
-
-This is the other place where people frequently make mistakes, so
-please preview your site before committing, and make sure to run
-'tools/check' as well.
 {% endcomment %}
 
 <h2 id="setup">Setup</h2>
 
 <p>
-  To participate in a
-  {% if site.carpentry == "swc" %}
-  Software Carpentry
-  {% elsif site.carpentry == "dc" %}
-  Data Carpentry
-  {% elsif site.carpentry == "lc" %}
-  Library Carpentry
-  {% endif %}
-  workshop,
-  you will need access to the software described below.
-  In addition, you will need an up-to-date web browser.
+To get access to Earth Engine, please fill out the form at signup.earthengine.google.com. You will receive an email titled "Welcome to Google Earth Engine" with instructions for getting started.
 </p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
