@@ -200,7 +200,6 @@ All geohackweek instructional material is made available under the <a href="http
 <h2 id="schedule">Schedule</h2>
 <div class="row">
   <div class="col-md-6">
-    <h3>Schedule</h3>
     <table class="table table-striped">
       <tr>
         <td>Morning<br>(9:30-10:15)</td>
