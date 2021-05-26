@@ -186,46 +186,12 @@ We will use this <a href="{{page.collaborative_notes}}">collaborative document</
 <hr/>
 {% endif %}
 
-# Schedule
-
-## Week 1: Monday 21 to Friday 25 June 
-
-| day        	| topic                                            	| instructors  	| helpers 	| Link |
-|------------	|--------------------------------------------------	|--------------	|---------	|------|
-| Monday     	| Introduction to Open Data Science with R - day 1 	| Marc Galland 	| tba     	| -    |
-| Tuesday    	| Introduction to Open Data Science with R - day 2 	| Marc Galland 	| tba     	| -    |
-| Wednesday  	| -                                                	| -            	|-         	| -    |
-| Thursday   	| Introduction to programming in Python - day 1    	| tba          	| tba     	| [Link](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    |
-| Friday     	| Introduction to programming in Python - day 2    	| tba          	| tba     	| [Link](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    |
-
-
-
-
 <h2>Schedule</h2>
 
 | Topic                                         | Overview                                                  | Link |
 |-----------------------------------------------|-----------------------------------------------------------|------|
 | GEE Access and JavaScript Tips                | How do I get an account? What are some JavaScript basics? | [Link](https://geohackweek.github.io/GoogleEarthEngine/00-access-javascript/) |
-| Introduction to Google Earth Engine           | What is Google Earth Engine? What are the strengths and limitations of this platform? | [Link](https://geohackweek.github.io/GoogleEarthEngine/01-introduction/) |
-| Code Editor                                   | What are the key features of the online code editor? Where can I go for help while learning GEE? How do I search for and import datasets? How do I create, share and save scripts?  | [Link](https://geohackweek.github.io/GoogleEarthEngine/02-code-editor/) |
-| Accessing Satellite Imagery                 	| How do I acquire satellite imagery at regional scales? How can I make image mosaics? How can I use vector data? How do I export images?| [Link](https://geohackweek.github.io/GoogleEarthEngine/03-load-imagery/) |
-| Temporal and Spatial Reducers               	| How do I aggregate a time series of raster data over a time period? How do I summarize data by vector regions? How do I export tabular data summaries? | [Link](https://geohackweek.github.io/GoogleEarthEngine/04-reducers/) |
-| Supervised Classification of Satellite Imagery| What machine learning techniques are available in GEE? How do I perform supervised classification of satellite imagery? How do I assess the accuracy of my classifier? How do I create my own geometries manually? | [Link](https://geohackweek.github.io/GoogleEarthEngine/05-classify-imagery/) |
-| Time Series     	                            | How do I create a time series for a given location? How can I plot that time series within Google Earth Engine? How do I make that plot interactive? | [Link](https://geohackweek.github.io/GoogleEarthEngine/06-time-series/) |
-| Wrap-Up                                     	| What are the most important GEE resources? Where do I find answers to my questions about GEE? What is happening under the hood in Earth Engine? | [Link](https://geohackweek.github.io/GoogleEarthEngine/07-wrap-up/) |
 
-
-
-| Topic                                                     | Overview  	|
-|-----------------------------------------------------------|-------------|
-| [GEE Access and JavaScript Tips](https://geohackweek.github.io/GoogleEarthEngine/00-access-javascript/) | How do I get an account? What are some JavaScript basics? |
-| <a href="https://geohackweek.github.io/GoogleEarthEngine/01-introduction/"> Introduction to Google Earth Engine | What is Google Earth Engine? What are the strengths and limitations of this platform?|
-| <a href="https://geohackweek.github.io/GoogleEarthEngine/02-code-editor/"> Code Editor | What are the key features of the online code editor? Where can I go for help while learning GEE? How do I search for and import datasets? How do I create, share and save scripts? |
-| <a href="https://geohackweek.github.io/GoogleEarthEngine/03-load-imagery/"> Accessing Satellite Imagery | How do I acquire satellite imagery at regional scales? How can I make image mosaics? How can I use vector data? How do I export images?|
-| <a href="https://geohackweek.github.io/GoogleEarthEngine/04-reducers/"> Temporal and Spatial Reducers | How do I aggregate a time series of raster data over a time period? How do I summarize data by vector regions? How do I export tabular data summaries?|
-| <a href="https://geohackweek.github.io/GoogleEarthEngine/05-classify-imagery/"> Supervised Classification of Satellite Imagery | What machine learning techniques are available in GEE? How do I perform supervised classification of satellite imagery? How do I assess the accuracy of my classifier? How do I create my own geometries manually?|
-| <a href="https://geohackweek.github.io/GoogleEarthEngine/06-time-series/"> Time Series | How do I create a time series for a given location? How can I plot that time series within Google Earth Engine? How do I make that plot interactive?|
-| <a href="https://geohackweek.github.io/GoogleEarthEngine/07-wrap-up/"> Wrap-Up | What are the most important GEE resources? Where do I find answers to my questions about GEE? What is happening under the hood in Earth Engine?|
 
 <h2>Credits</h2>
 All geohackweek instructional material is made available under the <a href="https://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution license.
