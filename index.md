@@ -196,7 +196,7 @@ We will use this <a href="{{page.collaborative_notes}}">collaborative document</
 
 | Code Editor                                   | What are the key features of the online code editor? Where can I go for help while learning GEE? How do I search for and import datasets? How do I create, share and save scripts?  | [Link](https://geohackweek.github.io/GoogleEarthEngine/02-code-editor/) |
 
-| Accessing Satellite Imagery                 	| How do I acquire satellite imagery at regional scales? How can I make image mosaics? How can I use vector data? How do I export images?|| [Link](https://geohackweek.github.io/GoogleEarthEngine/03-load-imagery/) |
+| Accessing Satellite Imagery                 	| How do I acquire satellite imagery at regional scales? How can I make image mosaics? How can I use vector data? How do I export images?| [Link](https://geohackweek.github.io/GoogleEarthEngine/03-load-imagery/) |
 
 | Temporal and Spatial Reducers               	| How do I aggregate a time series of raster data over a time period? How do I summarize data by vector regions? How do I export tabular data summaries? | [Link](https://geohackweek.github.io/GoogleEarthEngine/04-reducers/) |
 
