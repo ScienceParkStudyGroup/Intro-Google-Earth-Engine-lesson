@@ -178,7 +178,7 @@ Everyone who participates in Carpentries activities is required to conform to th
     <table class="table table-striped">
       <tr>
         <td><a href="https://geohackweek.github.io/GoogleEarthEngine/00-access-javascript/"> GEE Access and JavaScript Tips</a> </td>
-        <td>How do I get an account? What are some JavaScript basics?
+        <td>How do I get an account? <br> What are some JavaScript basics?
         </td>
         </tr>
       <tr>
