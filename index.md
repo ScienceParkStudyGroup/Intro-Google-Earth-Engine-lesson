@@ -200,7 +200,7 @@ We will use this <a href="{{page.collaborative_notes}}">collaborative document</
 | [Wrap-Up](https://geohackweek.github.io/GoogleEarthEngine/07-wrap-up/)| What are the most important GEE resources? Where do I find answers to my questions about GEE? What is happening under the hood in Earth Engine?|
 
 <h2>Credits</h2>
-All geohackweek instructional material is made available under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/). 
+All geohackweek instructional material is made available under the <a href="https://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution license.
 
 {% comment %}
 SCHEDULE
