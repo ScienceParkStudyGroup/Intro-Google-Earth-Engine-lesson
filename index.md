@@ -94,8 +94,13 @@ can use https://itouchmap.com/latlong.html to find the lat/long of an
 address.
 {% endcomment %}
 
+<p id="description">
+  <strong>Google Earth Engine</strong> combines a multi-petabyte catalog of satellite imagery and geospatial datasets with planetary-scale analysis capabilities and makes it available for scientists, researchers, and developers to detect changes, map trends, and quantify differences on the Earth's surface. It is also a tool for analyzing geospatial information. It has a searchable data catalog, including the entire EROS (USGS/NASA) Landsat catalog, numerous MODIS datasets, Sentinel-1 data, NAIP data, precipitation data, sea surface temperature data, CHIRPS climate data, and elevation data. Users can also upload their own data for analysis in Earth Engine, with full control over access.
+</p> 
+
 <p id="rooms">
   <strong>Online course:</strong> We will meet using Zoom. Each session will begin in the main room with a short presentation by the instructor to help you get started with the module. Participants will then go to breakout rooms to work together on the module in groups of 2-3. Instructors and helpers will be available at all times for questions and problem solving. Like other Carpentries workshops, you will be learning by "coding along". To do this, you will need to have both the window for R and the window for the Zoom video conference client open. In order to see both at once, we recommend using one of the following set up options: 1) two monitors, 2) two devices, or 3) divide your screen. This <a href="https://carpentries.org/blog/2020/06/online-workshop-logistics-and_screen-layouts/">blog post</a> includes detailed information on how to set up your screen to follow along during the workshop.
+</p> 
 
 {% comment %}
 DATE
@@ -165,26 +170,6 @@ Everyone who participates in Carpentries activities is required to conform to th
   </a>
 </p>
 <hr/>
-
-
-{% comment %}
-Collaborative Notes
-
-If you want to use an Etherpad, go to
-
-http://pad.carpentries.org/YYYY-MM-DD-site
-
-where 'YYYY-MM-DD-site' is the identifier for your workshop,
-e.g., '2015-06-10-esu'.
-{% endcomment %}
-{% if page.collaborative_notes %}
-<h2 id="collaborative_notes">Collaborative Notes</h2>
-
-<p>
-We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
-</p>
-<hr/>
-{% endif %}
 
 <h2>Schedule</h2>
 <p>
