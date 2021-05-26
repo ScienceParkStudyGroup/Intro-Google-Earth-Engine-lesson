@@ -186,6 +186,21 @@ We will use this <a href="{{page.collaborative_notes}}">collaborative document</
 <hr/>
 {% endif %}
 
+# Schedule
+
+## Week 1: Monday 21 to Friday 25 June 
+
+| day        	| topic                                            	| instructors  	| helpers 	| Link |
+|------------	|--------------------------------------------------	|--------------	|---------	|------|
+| Monday     	| Introduction to Open Data Science with R - day 1 	| Marc Galland 	| tba     	| -    |
+| Tuesday    	| Introduction to Open Data Science with R - day 2 	| Marc Galland 	| tba     	| -    |
+| Wednesday  	| -                                                	| -            	|-         	| -    |
+| Thursday   	| Introduction to programming in Python - day 1    	| tba          	| tba     	| [Link](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    |
+| Friday     	| Introduction to programming in Python - day 2    	| tba          	| tba     	| [Link](https://scienceparkstudygroup.github.io/Intro-Python-workshop/)    |
+
+
+
+
 <h2>Schedule</h2>
 
 | Topic                                         | Overview                                                  | Link |
