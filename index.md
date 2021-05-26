@@ -180,36 +180,42 @@ Everyone who participates in Carpentries activities is required to conform to th
         <td><a href="https://geohackweek.github.io/GoogleEarthEngine/00-access-javascript/"> GEE Access and JavaScript Tips</a> </td>
         <td>How do I get an account? What are some JavaScript basics?
         </td>
-      </tr>
+        </tr>
       <tr>
-        <td>Morning<br>(10:15-11:15)</td>
-        <td><a href="https://datacarpentry.org/r-raster-vector-geospatial/01-raster-structure/index.html">Intro to raster data<br>(Stacy)</a>
+        <td><a href="https://geohackweek.github.io/GoogleEarthEngine/00-access-javascript/"> Introduction to Google Earth Engine </a> </td>
+        <td>What is Google Earth Engine? What are the strengths and limitations of this platform?
         </td>
-      </tr>
+        </tr>
       <tr>
-        <td>Morning<br>(11:30-12:30)</td>
-        <td><a href="https://datacarpentry.org/r-raster-vector-geospatial/02-raster-plot/index.html">Plot raster data<br>(Stacy)</a>
+        <td><a href="https://geohackweek.github.io/GoogleEarthEngine/00-access-javascript/"> Code Editor </a> </td>
+        <td>What are the key features of the online code editor? Where can I go for help while learning GEE? How do I search for and import datasets? How do I create, share and save scripts?
         </td>
-      </tr>
+        </tr>
       <tr>
-        <td>Break</td>
-	      <td>  </td>
-      </tr>
+        <td><a href="https://geohackweek.github.io/GoogleEarthEngine/00-access-javascript/"> Accessing Satellite Imagery </a> </td>
+        <td>How do I acquire satellite imagery at regional scales? How can I make image mosaics? How can I use vector data? How do I export images?
+        </td>
+        </tr>
       <tr>
-        <td>Afternoon<br>(13:30-14:30)</td>
-        <td><a href="https://datacarpentry.org/r-raster-vector-geospatial/03-raster-reproject-in-r/index.html">Reproject raster data<br>(Johannes)</a>
+        <td><a href="https://geohackweek.github.io/GoogleEarthEngine/00-access-javascript/"> Temporal and Spatial Reducers </a> </td>
+        <td>How do I aggregate a time series of raster data over a time period? How do I summarize data by vector regions? How do I export tabular data summaries?
         </td>
-      </tr>
+        </tr>
       <tr>
-        <td>Afternoon<br>(14:45-17:00)</td>
-        <td><a href="https://datacarpentry.org/r-raster-vector-geospatial/04-raster-calculations-in-r/index.html">Raster calculations<br>(Johannes)</a>
+        <td><a href="https://geohackweek.github.io/GoogleEarthEngine/00-access-javascript/"> Supervised Classification of Satellite Imagery </a> </td>
+        <td>What machine learning techniques are available in GEE? How do I perform supervised classification of satellite imagery? How do I assess the accuracy of my        classifier? How do I create my own geometries manually?
         </td>
-      </tr>
-	 <tr>
-        <td>Afternoon<br>(14:45-17:00)</td>
-        <td><a href="https://datacarpentry.org/r-raster-vector-geospatial/05-raster-multi-band-in-r/index.html">Work with multi-band rasters<br>(Johannes)</a>
+        </tr>
+      <tr>
+        <td><a href="https://geohackweek.github.io/GoogleEarthEngine/00-access-javascript/"> Time Series </a> </td>
+        <td>How do I create a time series for a given location? How can I plot that time series within Google Earth Engine? How do I make that plot interactive?
         </td>
-      </tr>
+        </tr>
+      <tr>
+        <td><a href="https://geohackweek.github.io/GoogleEarthEngine/00-access-javascript/"> Wrap-Up </a> </td>
+        <td> What are the most important GEE resources? Where do I find answers to my questions about GEE? What is happening under the hood in Earth Engine?|
+        </td>
+        </tr>
     </table>
   </div>
 <hr/>
