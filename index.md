@@ -177,8 +177,8 @@ Everyone who participates in Carpentries activities is required to conform to th
   <div class="col-md-6">
     <table class="table table-striped">
       <tr>
-        <td>Morning<br>(9:30-10:15)</td>
-        <td><a href="https://datacarpentry.org/organization-geospatial/">Introduction to geospatial concepts and the datasets<br>(Stacy)</a>
+        <td><a href="https://geohackweek.github.io/GoogleEarthEngine/00-access-javascript/"> GEE Access and JavaScript Tips</a> </td>
+        <td>How do I get an account? What are some JavaScript basics?
         </td>
       </tr>
       <tr>
