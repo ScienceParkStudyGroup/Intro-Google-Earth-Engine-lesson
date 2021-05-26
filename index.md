@@ -230,7 +230,7 @@ We will use this <a href="{{page.collaborative_notes}}">collaborative document</
 <h2>Credits</h2>
 All geohackweek instructional material is made available under the <a href="https://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution license.
 
-{% comment %}
+
 SCHEDULE
 
 <div class="row">
@@ -273,7 +273,7 @@ SCHEDULE
       </tr>
     </table>
   </div>
-{% endcomment %}
+
 {% comment %}
 SYLLABUS
 
