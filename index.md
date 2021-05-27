@@ -221,14 +221,14 @@ Everyone who participates in Carpentries activities is required to conform to th
 <hr/>
 </p>
 
-<h2 id="setup">Setup</h2>
 <p>
+<h2 id="setup">Setup</h2>
 To get access to Earth Engine, please fill out the form at signup.earthengine.google.com. You will receive an email titled "Welcome to Google Earth Engine" with instructions for getting started.
 </p>
 
-<h2>Credits</h2>
 <p>
-  All geohackweek instructional material is made available under the <a href="https://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution license.
+<h2>Credits</h2>
+All geohackweek instructional material is made available under the <a href="https://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution license.
 </p>
 
 
