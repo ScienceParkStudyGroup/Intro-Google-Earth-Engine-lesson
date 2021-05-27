@@ -171,8 +171,8 @@ Everyone who participates in Carpentries activities is required to conform to th
 </p>
 <hr/>
 
-<h2>Schedule</h2>
 <p>
+<h2>Schedule</h2>
 <div class="row">
   <div class="col-md-6">
     <table class="table table-striped">
@@ -220,6 +220,7 @@ Everyone who participates in Carpentries activities is required to conform to th
   </div>
 <hr/>
 </p>
+<hr/>
 
 <p>
 <h2 id="setup">Setup</h2>
