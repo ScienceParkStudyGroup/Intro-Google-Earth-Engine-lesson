@@ -161,7 +161,7 @@ Display the contact email address set in the configuration file.
 <h2>Schedule</h2>
 <div class="row">
   <div class="col-md-6">
-    <table class="table table-striped center">
+    <table class="table center">
       <tr>
         <td><a href="https://geohackweek.github.io/GoogleEarthEngine/00-access-javascript/"> GEE Access and JavaScript Tips</a> </td>
         <td>How do I get an account? <br> What are some JavaScript basics?
@@ -205,8 +205,7 @@ Display the contact email address set in the configuration file.
     </table>
   </div>
 <hr/>
-</p>
-<hr/>
+
 
 {% comment%}
 CODE OF CONDUCT
@@ -232,7 +231,7 @@ SETUP
 <h2 id="setup">Setup</h2>
 <p>
 To get access to Earth Engine, please fill out the form at signup.earthengine.google.com. You will receive an email titled "Welcome to Google Earth Engine" with instructions for getting started.
-</p>
+
 
 {% comment%}
 CREDITS
@@ -241,7 +240,7 @@ CREDITS
 <h2>Credits</h2>
 <p>
 All geohackweek instructional material is made available under the <a href="https://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution license.
-</p>
+
 
 
 
