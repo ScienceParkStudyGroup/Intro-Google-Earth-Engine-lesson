@@ -169,28 +169,13 @@ Everyone who participates in Carpentries activities is required to conform to th
 </p>
 
 {% comment%}
-SETUP
-{% endcomment %}
-
-<h2 id="setup">Setup</h2>
-<p>
-To get access to Earth Engine, please fill out the form at signup.earthengine.google.com. You will receive an email titled "Welcome to Google Earth Engine" with instructions for getting started.
-
-{% comment%}
-CREDITS
-{% endcomment %}
-
-<h2>Credits</h2>
-<p>
-All geohackweek instructional material is made available under the <a href="https://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution license.
-
-{% comment%}
 SCHEDULE
+To make the table bigger or smaller, adjust the number in <div class="col-md-12">
 {% endcomment %}
 
 <h2>Schedule</h2>
 <div class="row">
-  <div class="col-md-12">
+  <div class="col-md-9">
     <table class="table center">
       <tr>
         <td><a href="https://geohackweek.github.io/GoogleEarthEngine/00-access-javascript/"> GEE Access and JavaScript Tips</a> </td>
@@ -234,6 +219,22 @@ SCHEDULE
         </tr>
     </table>
   </div>
+
+{% comment%}
+SETUP
+{% endcomment %}
+
+<h2 id="setup">Setup</h2>
+<p>
+To get access to Earth Engine, please fill out the form at signup.earthengine.google.com. You will receive an email titled "Welcome to Google Earth Engine" with instructions for getting started.
+
+{% comment%}
+CREDITS
+{% endcomment %}
+
+<h2>Credits</h2>
+<p>
+All geohackweek instructional material is made available under the <a href="https://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution license.
 
 
 
