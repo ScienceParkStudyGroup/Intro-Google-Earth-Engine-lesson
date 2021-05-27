@@ -226,7 +226,7 @@ SETUP
 
 <h2 id="setup">Setup</h2>
 <p>
-To get access to Earth Engine, please fill out the form at <a href="signup.earthengine.google.com"> signup.earthengine.google.com</a>. You will receive an email titled "Welcome to Google Earth Engine" with instructions for getting started.
+To get access to Earth Engine, please fill out the form at <a href="https://signup.earthengine.google.com"> signup.earthengine.google.com </a>. A gmail is best if you have one. You will receive an email titled "Welcome to Google Earth Engine" with instructions for getting started.
 
 {% comment%}
 CREDITS
