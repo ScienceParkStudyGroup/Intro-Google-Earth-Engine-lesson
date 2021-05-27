@@ -190,7 +190,7 @@ SCHEDULE
 
 <h2>Schedule</h2>
 <div class="row">
-  <div class="col-md-8">
+  <div class="col-md-12">
     <table class="table center">
       <tr>
         <td><a href="https://geohackweek.github.io/GoogleEarthEngine/00-access-javascript/"> GEE Access and JavaScript Tips</a> </td>
