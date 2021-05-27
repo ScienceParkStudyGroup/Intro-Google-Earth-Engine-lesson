@@ -228,7 +228,6 @@ SETUP
   <p>
 To get access to Earth Engine, please fill out the form at <a href="https://signup.earthengine.google.com">signup.earthengine.google.com</a>. A gmail is best if you have one. You will receive an email titled "Welcome to Google Earth Engine" with instructions for getting started.
   <p>
-If you do not have any experience with Python, we strongly recommend that you also sign up for the <a href="https://scienceparkstudygroup.github.io/Intro-Python-workshop/"> introductory Python course</a> on 24-25 June. 
 
 {% comment%}
 CREDITS
