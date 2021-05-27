@@ -199,7 +199,7 @@ Display the contact email address set in the configuration file.
         </tr>
       <tr>
         <td><a href="https://geohackweek.github.io/GoogleEarthEngine/07-wrap-up/"> Wrap-Up </a> </td>
-        <td> What are the most important GEE resources? <br>Where do I find answers to my questions about GEE? <br>What is happening under the hood in Earth Engine?|
+        <td> What are the most important GEE resources? <br>Where do I find answers to my questions about GEE? <br>What is happening under the hood in Earth Engine?
         </td>
         </tr>
     </table>
