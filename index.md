@@ -226,7 +226,7 @@ SETUP
 
 <h2 id="setup">Setup</h2>
 <p>
-To get access to Earth Engine, please fill out the form at signup.earthengine.google.com. You will receive an email titled "Welcome to Google Earth Engine" with instructions for getting started.
+To get access to Earth Engine, please fill out the form at <a href="signup.earthengine.google.com"> signup.earthengine.google.com</a>. You will receive an email titled "Welcome to Google Earth Engine" with instructions for getting started.
 
 {% comment%}
 CREDITS
@@ -234,7 +234,7 @@ CREDITS
 
 <h2>Credits</h2>
 <p>
-All geohackweek instructional material is made available under the <a href="https://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution license.
+All geohackweek instructional material is made available under the <a href="https://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution license</a>.
 
 
 
