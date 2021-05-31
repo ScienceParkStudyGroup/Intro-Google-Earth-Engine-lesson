@@ -48,6 +48,7 @@ This block includes the Eventbrite registration widget if
 'eventbrite' has been set in the header.  You can delete it if you
 are not using Eventbrite, or leave it in, since it will not be
 displayed if the 'eventbrite' field in the header is not set.
+Eventbrite link can be added into _includes/workshop_ad.html in line starting <button style
 {% endcomment %}
 {% if page.eventbrite %}
 <iframe
