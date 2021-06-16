@@ -179,42 +179,42 @@ To make the table bigger or smaller, adjust the number in <div class="col-md-##"
   <div class="col-md-12">
     <table class="table center">
       <tr>
-        <td><a href="https://geohackweek.github.io/GoogleEarthEngine/00-access-javascript/"> GEE Access and JavaScript Tips</a> </td>
+        <td><a href="https://scienceparkstudygroup.github.io/GoogleEarthEngine/00-access-javascript/"> GEE Access and JavaScript Tips</a> </td>
         <td>How do I get an account? <br> What are some JavaScript basics?
         </td>
         </tr>
       <tr>
-        <td><a href="https://geohackweek.github.io/GoogleEarthEngine/01-introduction/"> Introduction to Google Earth Engine </a> </td>
+        <td><a href="https://scienceparkstudygroup.github.io/GoogleEarthEngine/01-introduction/"> Introduction to Google Earth Engine </a> </td>
         <td>What is Google Earth Engine? <br>What are the strengths and limitations of this platform?
         </td>
         </tr>
       <tr>
-        <td><a href="https://geohackweek.github.io/GoogleEarthEngine/02-code-editor/"> Code Editor </a> </td>
+        <td><a href="https://scienceparkstudygroup.github.io/GoogleEarthEngine/02-code-editor/"> Code Editor </a> </td>
         <td>What are the key features of the online code editor? <br>Where can I go for help while learning GEE? <br>How do I search for and import datasets? How do I create, share and save scripts?
         </td>
         </tr>
       <tr>
-        <td><a href="https://geohackweek.github.io/GoogleEarthEngine/03-load-imagery/"> Accessing Satellite Imagery </a> </td>
+        <td><a href="https://scienceparkstudygroup.github.io/GoogleEarthEngine/03-load-imagery/"> Accessing Satellite Imagery </a> </td>
         <td>How do I acquire satellite imagery at regional scales? <br>How can I make image mosaics? <br>How can I use vector data? <br>How do I export images?
         </td>
         </tr>
       <tr>
-        <td><a href="https://geohackweek.github.io/GoogleEarthEngine/04-reducers/"> Temporal and Spatial Reducers </a> </td>
+        <td><a href="https://scienceparkstudygroup.github.io/GoogleEarthEngine/04-reducers/"> Temporal and Spatial Reducers </a> </td>
         <td>How do I aggregate a time series of raster data over a time period? <br>How do I summarize data by vector regions? <br>How do I export tabular data summaries?
         </td>
         </tr>
       <tr>
-        <td><a href="https://geohackweek.github.io/GoogleEarthEngine/05-classify-imagery/"> Supervised Classification of Satellite Imagery </a> </td>
+        <td><a href="https://scienceparkstudygroup.github.io/GoogleEarthEngine/05-classify-imagery/"> Supervised Classification of Satellite Imagery </a> </td>
         <td>What machine learning techniques are available in GEE? <br>How do I perform supervised classification of satellite imagery? <br>How do I assess the accuracy of my        classifier? <br>How do I create my own geometries manually?
         </td>
         </tr>
       <tr>
-        <td><a href="https://geohackweek.github.io/GoogleEarthEngine/06-time-series/"> Time Series </a> </td>
+        <td><a href="https://scienceparkstudygroup.github.io/GoogleEarthEngine/06-time-series/"> Time Series </a> </td>
         <td>How do I create a time series for a given location? <br>How can I plot that time series within Google Earth Engine? <br>How do I make that plot interactive?
         </td>
         </tr>
       <tr>
-        <td><a href="https://geohackweek.github.io/GoogleEarthEngine/07-wrap-up/"> Wrap-Up </a> </td>
+        <td><a href="https://scienceparkstudygroup.github.io/GoogleEarthEngine/07-wrap-up/"> Wrap-Up </a> </td>
         <td> What are the most important GEE resources? <br>Where do I find answers to my questions about GEE? <br>What is happening under the hood in Earth Engine?
         </td>
         </tr>
