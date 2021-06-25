@@ -183,8 +183,8 @@ To make the table bigger or smaller, adjust the number in <div class="col-md-##"
         <td>How do I get an account? <br> What are some JavaScript basics?
         </td>
         </tr>
-      <tr>
-        <td><a href="https://scienceparkstudygroup.github.io/Intro-Google-Earth-Engine-lesson/_episodes/01-introduction/"> Introduction to Google Earth Engine </a> </td>
+      <tr> 
+        <td><a href="https://scienceparkstudygroup.github.io/Intro-Google-Earth-Engine-lesson/_episodes/01-introduction.md"> Introduction to Google Earth Engine </a> </td>
         <td>What is Google Earth Engine? <br>What are the strengths and limitations of this platform?
         </td>
         </tr>
