@@ -31,8 +31,8 @@ Not sure if you have access? Use [this link](https://code.earthengine.google.com
 Google Earth Engine allows you to have shared group folders/repositories for scripts. Use the following link to access the workshop material. The course material is an updated version of the material developed for the geohackweek 2018. Open the shared repository by clicking this link:
   -  <a href="https://code.earthengine.google.com/?accept_repo=users/johannesdegroeve/GEE_SPSG_2021
 " target="_blank">https://code.earthengine.google.com/?accept_repo=users/johannesdegroeve/GEE_SPSG_2021</a>
-  - In the code editor, go to the **Scripts tab** in the top left panel, scroll down and expand the "Reader" section. A directory called *users/username/GEE_SPSG_2021 should appear with read-only versions of the full scripts from each episode.
-  - Please make another repository in the "Owner" section with a name of choice and make a first script "02-CodeEditor". You can use that repository as your working environment for the excercises. 
+  - In the code editor, go to the **Scripts tab** in the top left panel, scroll down and expand the "Reader" section. A directory called *users/johannesdegroeve/GEE_SPSG_2021* should appear with read-only versions of the full scripts from each episode.
+  - Make another repository in the "Owner" section with a name of choice and make a first script "02-CodeEditor". You can use that repository as your working environment for the excercises. 
 
 ### 3. Javascript Tips
 
