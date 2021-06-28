@@ -82,7 +82,7 @@ Save scripts by clicking the **Save** button. To include a commit message, use t
 
 *Note: If you didn't make any changes to the script, the* **Save** *button will be greyed out.*
 
-If you look at the top left panel, you can see the script is now saved in your **Scripts** manager. You have three categories of scripts: private, shared and examples. Each script is backed up on Git. If you move your mouse over the name of the script, three icons will pop up that allow you to revert to older versions, rename or delete the script. You can also make folders and click and drags scripts into those directories.
+If you look at the top left panel, you can see the script is now saved in your **Scripts** manager. You have four categories of scripts: owner, reader, writer and examples. Each script is backed up on Git. If you move your mouse over the name of the script, three icons will pop up that allow you to revert to older versions, rename or delete the script. You can also make folders and click and drags scripts into those directories.
 
 *Note/Warning: If you rename a script, it's revision history disappears.*
 
@@ -93,15 +93,13 @@ You can share a static version of scripts by clicking **Get Link**. A url will a
 
 #### Joining the shared repository
 
-To collaborate interactively on shared scripts with other users, you can create a shared folder, invite your collaborators and place scripts in that folder. We have created a shared folder for geohackweek2019.
+To collaborate interactively on shared scripts with other users, you can create a shared folder, invite your collaborators and place scripts in that folder. We have created a shared folder for GEE_SPSG_2021.
 
 You should have already accessed the shared code repository in the Code Editor with the following steps:
 
-- Join our Google group to access the shared code repository by clicking this link [https://goo.gl/maZwVa](https://goo.gl/maZwVa). Don't worry about posting permissions; we won't  be posting anything.
-- Accept the shared repository by clicking this link: <a href="https://code.earthengine.google.com/?accept_repo=users/victorialy/geohackweek2019" target="_blank">https://code.earthengine.google.com/?accept_repo=users/victorialy/geohackweek2019</a>
-
-
-- In the code editor, go to the **Scripts tab** in the top left panel, scroll down and expand the "Shared" section. A directory called *geohackweek2019* should appear with read-only versions of the full scripts from each episode.
+  -  <a href="https://code.earthengine.google.com/?accept_repo=users/johannesdegroeve/GEE_SPSG_2021
+" target="_blank">https://code.earthengine.google.com/?accept_repo=users/johannesdegroeve/GEE_SPSG_2021</a>
+  - In the code editor, go to the **Scripts tab** in the top left panel, scroll down and expand the "owner" section. A directory called *GEE_SPSG_2021* should appear with read-only versions of the full scripts from each episode.
 
 Any updates will be reflected in these versions of the code. Like all GEE scripts, these are version controlled. Read or write permissions for individuals or groups can be set in the Code Editor using the little grey share icon that appears to the right if you move your mouse over the directory name in the *Scripts* tab. You should have read-only access to this repo.
 
@@ -117,7 +115,7 @@ For practice, let's load some imagery into the code editor. We are going to sear
   - To do this, go to the *Search* toolbar and type in **Landsat 8 tier 1 TOA**.
   - Select the dataset - USGS Landsat 8 Collection 1 Tier 1 TOA Reflectance - by clicking on the name. This will bring up the metadata for this data collection. You can confirm you got the correct one because the `ImageCollection ID` should say **LANDSAT/LC08/C01/T1_TOA**
   - Now, click **Import** in this pop out. A new variable (`ImageCollection`) will load into your Code Editor in the "Imports" pane at the top of the code editor.
-  - Rename this object "L8_TOA". This object is an `ImageCollection`, which means it is a stack of images. Notice we have to declare this object using *var*. If you click the little blue square icon above the collection, a pop-out will appear showing the code you just created.
+  - Rename this object "landsat8Collection". This object is an `ImageCollection`, which means it is a stack of images. Notice we have to declare this object using *var*. If you click the little blue square icon above the collection, a pop-out will appear showing the code you just created.
 
 {% highlight javascript %}
 var landsat8Collection = ee.ImageCollection("LANDSAT/LC08/C01/T1_TOA")
@@ -140,7 +138,6 @@ print(landsat8Collection.limit(5))
 This will show you just the first five images so you can preview the collection. You can see the collection ID, the bands, the features, which are the images in the collection and the properties, which is the metadata.
 
 *Note: The developers are always adding great new functionalities to the GUI so we don't have to code. As a result, sometimes there will be a point-and-click method to do something that can also be accomplished by writing a line or two of code. The 'import' function is a great example of this because you can import a collection using either the "Import" button on the metadata or the 'ImageCollection' command written in JavaScript. Same thing, two ways.*
-
 
 #### Selecting a study area using Geometry Tools
 
