@@ -112,7 +112,7 @@ We will now instantiate a `classifier` using `ee.Classifier.randomForest()` and 
 
 {% highlight javascript %}
 // Make a Random Forest classifier and train it.
-var classifier = ee.Classifier.randomForest().train({
+var classifier = ee.Classifier.smileRandomForest(10).train({
   features: training,
   classProperty: 'landcover',
   inputProperties: bands
