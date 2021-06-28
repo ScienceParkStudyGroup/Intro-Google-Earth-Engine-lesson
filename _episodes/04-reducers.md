@@ -109,17 +109,17 @@ Now let's take the image of annual precipitation we just created and get the mea
 
 #### Load the County Boundaries (Vector Data)
 
-There are four ways to obtain vector data in GEE as discussed in [03 Accessing Satellite Imagery](https://geohackweek.github.io/GoogleEarthEngine/03-load-imagery/). Here, we will use an [existing public fusion table of county boundaries](https://fusiontables.google.com/data?docid=1xdysxZ94uUFIit9eXmnw1fYc6VcQiXhceFd_CVKa#map:id=2) from the US Census Bureau.
+There are several ways to obtain vector data in GEE as discussed in [03 Accessing Satellite Imagery](https://geohackweek.github.io/GoogleEarthEngine/03-load-imagery/). Here, we will use an [existing public feature collection from the US Census Bureau.
 
 This dataset includes entities outside of the contiguous US such as Alaska, Puerto Rico, and American Samoa. We will remove these based on their unique ID's in a property attribute containing "state" FIPS codes to demonstrate vector filtering.
 
 {% highlight javascript %}
 // load regions: counties from a public fusion table, removing non-conus states
 // by using a custom filter
-var nonCONUS = [2,15,60,66,69,72,78] // state FIPS codes that we don't want
-var counties = ee.FeatureCollection('ft:1ZMnPbFshUI3qbk9XE0H7t1N5CjsEGyl8lZfWfVn4')
-        .filter(ee.Filter.inList('STATEFP',nonCONUS).not());
-print(counties, 'counties');
+var nonCONUS = [2,15,60,66,69,72,78]; // state FIPS codes that we don't want
+var counties = ee.FeatureCollection("TIGER/2018/Counties")
+.filter(ee.Filter.inList('STATEFP',nonCONUS).not());
+print('counties:',counties.limit(5));
 
 // visualize
 Map.addLayer(counties,{},'counties');  
