@@ -42,10 +42,9 @@ In order to generate images that cover large spatial areas and to fill in image 
 ### Load Vector Boundary
 We'll work on making a composite satellite image for a US watershed. The easiest way to filter for an irregular location without having to identify the paths and rows of the satellite image tiles is to use a vector polygon.
 
-There are four ways to obtain vector data in GEE:
+There are several ways to obtain vector data in GEE:
 
   * [Upload a shapefile](https://developers.google.com/earth-engine/importing) directly to your personal *Asset* folder in the top left panel. You can create subfolders and set sharing permissions on these as needed. We use an asset vector file in the [Accessing Satellite Imagery module](https://geohackweek.github.io/GoogleEarthEngine/03-load-imagery/).
-  * Import an existing [Google Fusion Table](https://support.google.com/fusiontables#topic=1652595), or [create your own](https://fusiontables.google.com/data?dsrcid=implicit) fusion table from a KML in WGS84.  Each fusion table has a unique Id (File > About this table) that can be used to load it into GEE. GEE only recently added the Asset option, so you may see folks still using fusion tables in the forums, etc. If you have the choice, I'd use an asset.
   * Use an existing vector dataset in GEE. (Browse the vector dataset catalog here)[https://developers.google.com/earth-engine/vector_datasets].
   * Manually draw points, lines, and polygons using the geometry tools in the code editor. We do this in the [Classify Imagery Module](https://geohackweek.github.io/GoogleEarthEngine/05-classify-imagery/).
 
