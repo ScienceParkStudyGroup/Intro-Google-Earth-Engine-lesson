@@ -110,14 +110,14 @@ You can upload your own raster **and** vector data to the platform. You can also
 
 GEE will back up on your code in a git repository without you having to think about it. You can share those repositories with other users and view older versions of scripts easily from the Code Editor.
 
-#### Reason # 6: Flexible access through APIs
+## Three different ways to access and use Google Earth Engine
 
 The GEE development team has worked hard to make GEE easy to access. Google Earth Engine can be accessed through a few different channels, including a non-programming GUI, the JavaScript API and the Python API.
 
 
-  - The <a href="https://explorer.earthengine.google.com/#workspace" target="_blank">Google Earth Engine Explorer</a> is great for getting non-specialists on board to view datasets but has limited capabilities for analysis.
-  - The JavaScript GUI is a fully built web platform that you make requests through to the main GEE API. The developers have spent years refining this platform to make it easier for users to store, share and version code results, execute tasks and most importantly visualize results on the fly in charts and maps rendered directly in the browser window. They also handle the user authentication just by logging you in through your gmail.
-  - The Python API requires users to handle authentication and visualization of results on their end with the benefit of allowing users to more fully customize requests beyond the library of functions natively available in GEE. There is no website you log into to conduct your analysis - code is built from the ground up using workflows that are developed on an individual basis.
+  1. The <a href="https://explorer.earthengine.google.com/#workspace" target="_blank">Google Earth Engine Explorer</a> is great for getting non-specialists on board to view datasets but has limited capabilities for analysis.
+  2. The <a href="https://code.earthengine.google.com/" target="_blank">Earth Engine Code Editor</a> is a web-based JavaScript GUI that you use to make requests through to the main GEE API. The developers have spent years refining this platform to make it easier for users to store, share and version code results, execute tasks and most importantly visualize results on the fly in charts and maps rendered directly in the browser window. They also handle the user authentication just by logging you in through your gmail. This is how we will access and use GEE during this workshop.
+  3. The <a href="https://github.com/google/earthengine-api" target="_blank">Python API</a> requires users to handle authentication and visualization of results on their end with the benefit of allowing users to more fully customize requests beyond the library of functions natively available in GEE. There is no website you log into to conduct your analysis - code is built from the ground up using workflows that are developed on an individual basis.
 
 For this class we are using the JavaScript API, but <a href="https://developers.google.com/earth-engine/python_install" target="_blank"> training materials on accessing GEE using Python</a> are now available on the GEE website. If you are interested in using the Python API, follow that link for installation instructions or check out an example notebooks <a href="https://github.com/g07kore/Google-Earth-Engine-Python-Examples/blob/master/001_ee_classification_ls8_toa.ipynb " target="_blank">here</a>. The Javascript API has built in map visualization tools already in place, so that is what we use to learn the platform initially.
 
