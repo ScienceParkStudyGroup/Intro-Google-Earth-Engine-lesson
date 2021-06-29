@@ -179,7 +179,7 @@ To make the table bigger or smaller, adjust the number in <div class="col-md-##"
   <div class="col-md-12">
     <table class="table center">
       <tr>
-        <td><a href="https://scienceparkstudygroup.github.io/GoogleEarthEngine/00-access-javascript.md/"> GEE Access and JavaScript Tips</a> </td>
+        <td><a href="https://scienceparkstudygroup.github.io/GoogleEarthEngine/00-access-javascript/"> GEE Access and JavaScript Tips</a> </td>
         <td>How do I get an account? <br> What are some JavaScript basics?
         </td>
         </tr>
