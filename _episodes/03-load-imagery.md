@@ -132,7 +132,7 @@ We explicitly define a new function called "maskClouds" and apply it to each ima
 
 // Surface reflectance products come with a 'pixel_qa' band
 // that is based on the cfmask. Read more here:
-// https://landsat.usgs.gov/landsat-surface-reflectance-quality-assessment
+// https://prd-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/LSDS-1368_L8_C1-LandSurfaceReflectanceCode-LASRC_ProductGuide-v3.pdf
 
 // create function to mask clouds, cloud shadows, snow
 var maskClouds = function(image){
