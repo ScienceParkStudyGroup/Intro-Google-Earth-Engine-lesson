@@ -34,7 +34,7 @@ Link to the full code we used in this lesson:
 
 ## 1. Getting Started
 
-**To access the Code Editor, type the following url into your browser: <a href="https://code.earthengine.google.com" target="_blank">https://code.earthengine.google.com</a>** A webpage programming interface like the one below should appear. The diagram below has annotations pointing to many of the functionalities we will cover today.
+**To access the Code Editor, type the following url into your browser: <a href="https://code.earthengine.google.com" target="_blank">https://code.earthengine.google.com</a>.** A webpage programming interface like the one below should appear. The diagram below has annotations pointing to many of the functionalities we will cover today.
 
 <br>
 <img src="../fig/02_codeeditor.png" border = "10">
